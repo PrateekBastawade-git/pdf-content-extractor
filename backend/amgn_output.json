@@ -1,0 +1,944 @@
+{
+  "filename": "AMGN.pdf",
+  "total_pages": 15,
+  "file_summary": {
+    "state": "TOI/Sub-TOI: Product Name: Project Name/Number:   /",
+    "filing_company": "American General Life Insurance Company",
+    "toi_sub_toi": null,
+    "product_name": null,
+    "project_name_number": null,
+    "company_tracking_number": null,
+    "serff_tracking_number": "AMGN-135003565",
+    "state_tracking_number": "SOV - OOS - P 22550-D"
+  },
+  "sections": [
+    {
+      "id": "general",
+      "title": "General",
+      "page": 1,
+      "blocks": [
+        {
+          "type": "table",
+          "title": null,
+          "headers": [
+            "SERFF Tracking #:   AMGN-135003565",
+            "State Tracking #:   SOV - OOS - P 22550-D",
+            "Company Tracking #:"
+          ],
+          "rows": [
+            [
+              "State: TOI/Sub-TOI: Product Name: Project Name/Number:   /",
+              "Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV",
+              "Filing Company:",
+              "American General Life Insurance Company"
+            ]
+          ],
+          "items": null,
+          "raw_markdown": "| SERFF Tracking #:   AMGN-135003565 | State Tracking #:   SOV - OOS - P 22550-D | Company Tracking #: |\n| --- | --- | --- |\n| State: TOI/Sub-TOI: Product Name: Project Name/Number:   / | Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV | Filing Company: | American General Life Insurance Company |"
+        }
+      ],
+      "raw_markdown": "| SERFF Tracking #:   AMGN-135003565 | State Tracking #:   SOV - OOS - P 22550-D | Company Tracking #: |\n| --- | --- | --- |\n| State: TOI/Sub-TOI: Product Name: Project Name/Number:   / | Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV | Filing Company: | American General Life Insurance Company |"
+    },
+    {
+      "id": "table-of-contents",
+      "title": "Table of Contents",
+      "page": 1,
+      "blocks": [
+        {
+          "type": "table",
+          "title": null,
+          "headers": [
+            "User Usage Agreement Attachments",
+            "Usage Agreement",
+            "Usage Agreement.pdf"
+          ],
+          "rows": [
+            [
+              "Supporting Document Attachments",
+              "Revised Statement of Variability",
+              "(ex. Supporting Document Name      Attachment Name)",
+              "P 22550-I [Expanded SOV].pdf"
+            ],
+            [
+              "Redline Version",
+              "P 22550-I [Expanded SOV] -redline.pdf"
+            ],
+            [
+              "SERFF Tracking #:   AMGN-135003565",
+              "State Tracking #:   SOV - OOS - P 22550-D",
+              "Company Tracking #:"
+            ],
+            [
+              "State: TOI/Sub-TOI: Product Name: Project Name/Number:   /",
+              "Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV",
+              "Filing Company:",
+              "American General Life Insurance Company"
+            ]
+          ],
+          "items": null,
+          "raw_markdown": "| User Usage Agreement Attachments | Usage Agreement | Usage Agreement.pdf |\n| --- | --- | --- |\n| Supporting Document Attachments | Revised Statement of Variability | (ex. Supporting Document Name      Attachment Name) | P 22550-I [Expanded SOV].pdf |\n| Redline Version | P 22550-I [Expanded SOV] -redline.pdf |\n| SERFF Tracking #:   AMGN-135003565 | State Tracking #:   SOV - OOS - P 22550-D | Company Tracking #: |\n| State: TOI/Sub-TOI: Product Name: Project Name/Number:   / | Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV | Filing Company: | American General Life Insurance Company |"
+        },
+        {
+          "type": "key_value_grid",
+          "title": null,
+          "headers": null,
+          "rows": null,
+          "items": [
+            {
+              "label": "Company: Product Name: State: TOI: Sub-TOI: Filing Type: Date Submitted: SERFF Tr Num: SERFF Status: State Tr Num: State Status: Co Tr Num",
+              "value": "American General Life Insurance Company Expanded SOV Maryland A05G Group Annuities - Immediate Non-Variable A05G.000 Annuities - Immediate Non-variable Form 06/29/2026 AMGN-135003565 Closed-Received and filed SOV - OOS - P 22550-D"
+            },
+            {
+              "label": "Effective Date Requested: Author(s): Reviewer(s): Disposition Date: Disposition Status: Effective Date",
+              "value": "On Approval"
+            }
+          ],
+          "raw_markdown": "- **Company:\nProduct Name:\nState:\nTOI:\nSub-TOI:\nFiling Type:\nDate Submitted:\nSERFF Tr Num:\nSERFF Status:\nState Tr Num:\nState Status:\nCo Tr Num**: American General Life Insurance Company\nExpanded SOV\nMaryland\nA05G Group Annuities - Immediate Non-Variable\nA05G.000 Annuities - Immediate Non-variable\nForm\n06/29/2026\nAMGN-135003565\nClosed-Received and filed\nSOV - OOS - P 22550-D\n- **Effective\nDate Requested:\nAuthor(s):\nReviewer(s):\nDisposition Date:\nDisposition Status:\nEffective Date**: On Approval"
+        },
+        {
+          "type": "table",
+          "title": null,
+          "headers": [
+            "SERFF Tracking #:   AMGN-135003565",
+            "State Tracking #:   SOV - OOS - P 22550-D",
+            "Company Tracking #:"
+          ],
+          "rows": [
+            [
+              "State: TOI/Sub-TOI: Product Name: Project Name/Number:   /",
+              "Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV",
+              "Filing Company:",
+              "American General Life Insurance Company"
+            ],
+            [
+              "General Information",
+              "Project Name: Project Number: Requested Filing Mode: Informational Explanation for Combination/Other: Submission Type: New Submission Group Market Type: Employer Filing Status Changed: 08/17/2026 State Status Changed: Created By: Aileen Apuy Corresponding Filing Tracking Number:",
+              "Status of Filing in Domicile: Pending Date Approved in Domicile: Domicile Status Comments: Market Type: Group Group Market Size: Small and Large Overall Rate Impact:",
+              "Deemer Date: Submitted By: Aileen Apuy"
+            ],
+            [
+              "RE: American General Life Insurance Company (NAIC: 60488) (FEIN: 25-0598210)",
+              "Filing Description:"
+            ]
+          ],
+          "items": null,
+          "raw_markdown": "| SERFF Tracking #:   AMGN-135003565 | State Tracking #:   SOV - OOS - P 22550-D | Company Tracking #: |\n| --- | --- | --- |\n| State: TOI/Sub-TOI: Product Name: Project Name/Number:   / | Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV | Filing Company: | American General Life Insurance Company |\n| General Information | Project Name: Project Number: Requested Filing Mode: Informational Explanation for Combination/Other: Submission Type: New Submission Group Market Type: Employer Filing Status Changed: 08/17/2026 State Status Changed: Created By: Aileen Apuy Corresponding Filing Tracking Number: | Status of Filing in Domicile: Pending Date Approved in Domicile: Domicile Status Comments: Market Type: Group Group Market Size: Small and Large Overall Rate Impact: | Deemer Date: Submitted By: Aileen Apuy |\n| RE: American General Life Insurance Company (NAIC: 60488) (FEIN: 25-0598210) | Filing Description: |"
+        },
+        {
+          "type": "paragraph",
+          "title": null,
+          "headers": null,
+          "rows": null,
+          "items": null,
+          "raw_markdown": "The effective date of this filing is upon approval.\nThe purpose of this filing is to submit a revised Statement of Variability for P 22550-I. The Statement of Variability was\noriginally approved by your Department on 08/09/2022 under SERFF Tracking Number AMGN-133229794, for issuance to\nparticipants residing in your state under group annuity policies issued by American General Life Insurance Company on a\ngeneral use basis for out-of-state scenarios.\nWe are revising the Statement of Variability to expand the annuity benefit range of options. For ease in your review, we have\nattached a redline of the changes to the Supporting Documentation tab.\nThese changes do not impact any rates filed in your state.\nTo the best of our knowledge, this filing is complete and intended to comply with the insurance laws of your jurisdiction.\nShould you have any questions or require any additional information regarding this submission, please contact me directly.\nThe contact information under the Companies and Contact tab is correct."
+        },
+        {
+          "type": "table",
+          "title": null,
+          "headers": [
+            "Company and Contact",
+            "Filing Contact Information",
+            "Aileen Apuy, Manager, State Filings 108800 Wilshire Blvd Suite 1101 Los Angeles, CA 90024",
+            "aileen.apuy@corebridgefinancial.com 424-537-8915 [Phone]"
+          ],
+          "rows": [
+            [
+              "SERFF Tracking #:   AMGN-135003565",
+              "State Tracking #:   SOV - OOS - P 22550-D",
+              "Company Tracking #:"
+            ],
+            [
+              "State: TOI/Sub-TOI: Product Name: Project Name/Number:   /",
+              "Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV",
+              "Filing Company:",
+              "American General Life Insurance Company"
+            ],
+            [
+              "Filing Company Information",
+              "American General Life Insurance Company 2727-A Allen Parkway Houston, TX  77019 (713) 342-3461 ext. [Phone]",
+              "CoCode: 60488 Group Code: 5115 Group Name: Corebridge Financial FEIN Number: 25-0598210",
+              "State of Domicile: Texas Company Type: State ID Number:"
+            ],
+            [
+              "SERFF Tracking #:   AMGN-135003565",
+              "State Tracking #:   SOV - OOS - P 22550-D",
+              "Company Tracking #:"
+            ],
+            [
+              "State: TOI/Sub-TOI: Product Name: Project Name/Number:   /",
+              "Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV",
+              "Filing Company:",
+              "American General Life Insurance Company"
+            ]
+          ],
+          "items": null,
+          "raw_markdown": "| Company and Contact | Filing Contact Information | Aileen Apuy, Manager, State Filings 108800 Wilshire Blvd Suite 1101 Los Angeles, CA 90024 | aileen.apuy@corebridgefinancial.com 424-537-8915 [Phone] |\n| --- | --- | --- | --- |\n| SERFF Tracking #:   AMGN-135003565 | State Tracking #:   SOV - OOS - P 22550-D | Company Tracking #: |\n| State: TOI/Sub-TOI: Product Name: Project Name/Number:   / | Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV | Filing Company: | American General Life Insurance Company |\n| Filing Company Information | American General Life Insurance Company 2727-A Allen Parkway Houston, TX  77019 (713) 342-3461 ext. [Phone] | CoCode: 60488 Group Code: 5115 Group Name: Corebridge Financial FEIN Number: 25-0598210 | State of Domicile: Texas Company Type: State ID Number: |\n| SERFF Tracking #:   AMGN-135003565 | State Tracking #:   SOV - OOS - P 22550-D | Company Tracking #: |\n| State: TOI/Sub-TOI: Product Name: Project Name/Number:   / | Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV | Filing Company: | American General Life Insurance Company |"
+        }
+      ],
+      "raw_markdown": "| User Usage Agreement Attachments | Usage Agreement | Usage Agreement.pdf |\n| --- | --- | --- |\n| Supporting Document Attachments | Revised Statement of Variability | (ex. Supporting Document Name      Attachment Name) | P 22550-I [Expanded SOV].pdf |\n| Redline Version | P 22550-I [Expanded SOV] -redline.pdf |\n| SERFF Tracking #:   AMGN-135003565 | State Tracking #:   SOV - OOS - P 22550-D | Company Tracking #: |\n| State: TOI/Sub-TOI: Product Name: Project Name/Number:   / | Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV | Filing Company: | American General Life Insurance Company |\n\n- **Company:\nProduct Name:\nState:\nTOI:\nSub-TOI:\nFiling Type:\nDate Submitted:\nSERFF Tr Num:\nSERFF Status:\nState Tr Num:\nState Status:\nCo Tr Num**: American General Life Insurance Company\nExpanded SOV\nMaryland\nA05G Group Annuities - Immediate Non-Variable\nA05G.000 Annuities - Immediate Non-variable\nForm\n06/29/2026\nAMGN-135003565\nClosed-Received and filed\nSOV - OOS - P 22550-D\n- **Effective\nDate Requested:\nAuthor(s):\nReviewer(s):\nDisposition Date:\nDisposition Status:\nEffective Date**: On Approval\n\n| SERFF Tracking #:   AMGN-135003565 | State Tracking #:   SOV - OOS - P 22550-D | Company Tracking #: |\n| --- | --- | --- |\n| State: TOI/Sub-TOI: Product Name: Project Name/Number:   / | Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV | Filing Company: | American General Life Insurance Company |\n| General Information | Project Name: Project Number: Requested Filing Mode: Informational Explanation for Combination/Other: Submission Type: New Submission Group Market Type: Employer Filing Status Changed: 08/17/2026 State Status Changed: Created By: Aileen Apuy Corresponding Filing Tracking Number: | Status of Filing in Domicile: Pending Date Approved in Domicile: Domicile Status Comments: Market Type: Group Group Market Size: Small and Large Overall Rate Impact: | Deemer Date: Submitted By: Aileen Apuy |\n| RE: American General Life Insurance Company (NAIC: 60488) (FEIN: 25-0598210) | Filing Description: |\n\nThe effective date of this filing is upon approval.\nThe purpose of this filing is to submit a revised Statement of Variability for P 22550-I. The Statement of Variability was\noriginally approved by your Department on 08/09/2022 under SERFF Tracking Number AMGN-133229794, for issuance to\nparticipants residing in your state under group annuity policies issued by American General Life Insurance Company on a\ngeneral use basis for out-of-state scenarios.\nWe are revising the Statement of Variability to expand the annuity benefit range of options. For ease in your review, we have\nattached a redline of the changes to the Supporting Documentation tab.\nThese changes do not impact any rates filed in your state.\nTo the best of our knowledge, this filing is complete and intended to comply with the insurance laws of your jurisdiction.\nShould you have any questions or require any additional information regarding this submission, please contact me directly.\nThe contact information under the Companies and Contact tab is correct.\n\n| Company and Contact | Filing Contact Information | Aileen Apuy, Manager, State Filings 108800 Wilshire Blvd Suite 1101 Los Angeles, CA 90024 | aileen.apuy@corebridgefinancial.com 424-537-8915 [Phone] |\n| --- | --- | --- | --- |\n| SERFF Tracking #:   AMGN-135003565 | State Tracking #:   SOV - OOS - P 22550-D | Company Tracking #: |\n| State: TOI/Sub-TOI: Product Name: Project Name/Number:   / | Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV | Filing Company: | American General Life Insurance Company |\n| Filing Company Information | American General Life Insurance Company 2727-A Allen Parkway Houston, TX  77019 (713) 342-3461 ext. [Phone] | CoCode: 60488 Group Code: 5115 Group Name: Corebridge Financial FEIN Number: 25-0598210 | State of Domicile: Texas Company Type: State ID Number: |\n| SERFF Tracking #:   AMGN-135003565 | State Tracking #:   SOV - OOS - P 22550-D | Company Tracking #: |\n| State: TOI/Sub-TOI: Product Name: Project Name/Number:   / | Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV | Filing Company: | American General Life Insurance Company |"
+    },
+    {
+      "id": "state-fees",
+      "title": "State Fees",
+      "page": 5,
+      "blocks": [
+        {
+          "type": "key_value_grid",
+          "title": null,
+          "headers": null,
+          "rows": null,
+          "items": [
+            {
+              "label": "Fee Required? Fee Amount: Retaliatory? Fee Explanation: Per Company",
+              "value": "Yes $125.00 No $125 per form x 1 form No"
+            }
+          ],
+          "raw_markdown": "- **Fee Required?\nFee Amount:\nRetaliatory?\nFee Explanation:\nPer Company**: Yes\n$125.00\nNo\n$125 per form x 1 form\nNo"
+        },
+        {
+          "type": "table",
+          "title": null,
+          "headers": [
+            "Company",
+            "American General Life Insurance Company",
+            "Amount",
+            "$125.00",
+            "Date Processed",
+            "06/29/2026 03:14 PM",
+            "Transaction #",
+            "350596425"
+          ],
+          "rows": [
+            [
+              "EFT Total",
+              "$125.00"
+            ],
+            [
+              "Company Tracking #:",
+              "State Tracking #:",
+              "SERFF Tracking #:",
+              "SOV - OOS - P 22550-D",
+              "AMGN-135003565",
+              "Filing Company:",
+              "State:",
+              "American General Life Insurance Company",
+              "Maryland",
+              "TOI/Sub-TOI:",
+              "A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable",
+              "Product Name:",
+              "Expanded SOV",
+              "Project Name/Number:",
+              "/",
+              "Correspondence Summary",
+              "Dispositions",
+              "Date Submitted",
+              "Created On",
+              "Created By",
+              "Status",
+              "08/17/2026",
+              "08/17/2026",
+              "Received and filed   Sebastian Schenk",
+              "Objection Letters and Response Letters",
+              "Response Letters",
+              "Objection Letters",
+              "Date Submitted",
+              "Created On",
+              "Responded By",
+              "Date Submitted",
+              "Created On",
+              "Created By",
+              "Status",
+              "08/13/2026",
+              "08/13/2026",
+              "Aileen Apuy",
+              "08/13/2026",
+              "08/13/2026",
+              "Sebastian Schenk Objection Letter",
+              "Sent",
+              "Filing Notes",
+              "Date Submitted",
+              "Created On",
+              "Created By",
+              "Note Type",
+              "Subject",
+              "08/13/2026",
+              "08/13/2026",
+              "Aileen Apuy",
+              "Note To Reviewer",
+              "Updated Objection Response"
+            ],
+            [
+              "Company Tracking #:",
+              "State Tracking #:",
+              "SERFF Tracking #:",
+              "SOV - OOS - P 22550-D",
+              "AMGN-135003565",
+              "Filing Company:",
+              "State:",
+              "American General Life Insurance Company",
+              "Maryland",
+              "TOI/Sub-TOI:",
+              "A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable",
+              "Product Name:",
+              "Expanded SOV",
+              "Project Name/Number:",
+              "/",
+              "Disposition",
+              "Disposition Date: 08/17/2026",
+              "Effective Date:",
+              "Status: Received and filed",
+              "Comment: Please be advised of our acceptance of a revised Statement of Variability for Group Immediate Annuity Certificate, P 22550-I which was approved in",
+              "accordance with COMAR 31.09.08.07D for solicitation of individuals in Maryland on 12/14/2022 under SERFF tracking number AMGN-133229794.",
+              "In response to your submission on August 9, 2022, under SERFF tracking number AMGN-133229794, we returned without review, Group Deferred Annuity Certificate,",
+              "P 22550-D & Group Immediate Annuity Certificate, P 22550-I, which you had filed with the Insurance Administration, bearing our stamp \u201cReceived and Filed.\u201d",
+              "Certificate Forms P 22550-D & P 22550-I will be attached to Group Annuity Contract Forms P 30942 Rev0516, P 30942-MA and P 30942-DE which you stated were",
+              "approved on August 5, 2026 under SERFF tracking number AMGN-130667003, July 15, 2021 under SERFF tracking number AMGN-132876089, and November 22,",
+              "2021 under SERFF tracking number AMGN-133032919, respectively.",
+              "It is your responsibility to make sure that the Forms and their corresponding Statements of Variability comply with all applicable Maryland mandates and to monitor any",
+              "future law changes and make the necessary revisions to these Forms to keep them in compliance with Maryland law.",
+              "Rate data does NOT apply to filing.",
+              "Public Access",
+              "Schedule Item Status",
+              "Schedule Item",
+              "Schedule",
+              "Yes",
+              "Closed",
+              "Actuarial Memorandum",
+              "Supporting Document",
+              "Yes",
+              "Closed",
+              "Actuarial Memorandum - Life Policy",
+              "Supporting Document",
+              "Yes",
+              "Closed",
+              "Actuarial Memorandum - Life Riders",
+              "Supporting Document",
+              "Yes",
+              "Closed",
+              "Advertising",
+              "Supporting Document",
+              "Yes",
+              "Closed",
+              "Application - Employee/Member",
+              "Supporting Document",
+              "Yes",
+              "Closed",
+              "Application - Group Policyholder Application",
+              "Supporting Document",
+              "Yes",
+              "Closed",
+              "Description of Contracts Used with this Application",
+              "Supporting Document",
+              "Yes",
+              "Closed",
+              "Description of Contracts Used with this Rider",
+              "Supporting Document",
+              "Yes",
+              "Closed",
+              "Life Ins. Illustration Actuarial  Certification",
+              "Supporting Document",
+              "Yes",
+              "Closed",
+              "Life Rider/Endorsement/Amendment form",
+              "Supporting Document",
+              "Yes",
+              "Closed",
+              "List of Policy Form Numbers",
+              "Supporting Document",
+              "Yes",
+              "Closed",
+              "Outline of Coverage",
+              "Supporting Document"
+            ],
+            [
+              "Public Access",
+              "Yes",
+              "Yes",
+              "Yes",
+              "Yes",
+              "Yes",
+              "Yes",
+              "Yes",
+              "Yes",
+              "Yes",
+              "Yes",
+              "Yes"
+            ],
+            [
+              "Company Tracking #:",
+              "State Tracking #:",
+              "SERFF Tracking #:",
+              "SOV - OOS - P 22550-D",
+              "AMGN-135003565",
+              "Filing Company:",
+              "State:",
+              "American General Life Insurance Company",
+              "Maryland",
+              "TOI/Sub-TOI:",
+              "A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable",
+              "Product Name:",
+              "Expanded SOV",
+              "Project Name/Number:",
+              "/",
+              "Schedule Item Status",
+              "Schedule Item",
+              "Schedule",
+              "Closed",
+              "Policy Forms",
+              "Supporting Document",
+              "Closed",
+              "Premium Rates",
+              "Supporting Document",
+              "Closed",
+              "Replacement Notices",
+              "Supporting Document",
+              "Closed",
+              "Rider(s)",
+              "Supporting Document",
+              "Closed",
+              "Specimen Application",
+              "Supporting Document",
+              "Closed",
+              "Specimen Policy",
+              "Supporting Document",
+              "Closed",
+              "Specimen Rider/Endorsement/Amendment document",
+              "Supporting Document",
+              "Closed",
+              "Third Party Authorization",
+              "Supporting Document",
+              "Closed",
+              "Variable Text  Description",
+              "Supporting Document",
+              "Received and Filed",
+              "Revised Statement of Variability",
+              "Supporting Document",
+              "Closed",
+              "Redline Version",
+              "Supporting Document"
+            ],
+            [
+              "SERFF Tracking #:   AMGN-135003565",
+              "State Tracking #:   SOV - OOS - P 22550-D",
+              "Company Tracking #:"
+            ],
+            [
+              "State: TOI/Sub-TOI: Product Name: Project Name/Number:   /",
+              "Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV",
+              "Filing Company:",
+              "American General Life Insurance Company"
+            ],
+            [
+              "Objection Letter",
+              "Objection Letter Status Objection Letter Date Submitted Date Respond By Date",
+              "Objection Letter Sent 08/13/2026 08/13/2026"
+            ]
+          ],
+          "items": null,
+          "raw_markdown": "| Company | American General Life Insurance Company | Amount | $125.00 | Date Processed | 06/29/2026 03:14 PM | Transaction # | 350596425 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| EFT Total | $125.00 |\n| Company Tracking #: | State Tracking #: | SERFF Tracking #: | SOV - OOS - P 22550-D | AMGN-135003565 | Filing Company: | State: | American General Life Insurance Company | Maryland | TOI/Sub-TOI: | A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable | Product Name: | Expanded SOV | Project Name/Number: | / | Correspondence Summary | Dispositions | Date Submitted | Created On | Created By | Status | 08/17/2026 | 08/17/2026 | Received and filed   Sebastian Schenk | Objection Letters and Response Letters | Response Letters | Objection Letters | Date Submitted | Created On | Responded By | Date Submitted | Created On | Created By | Status | 08/13/2026 | 08/13/2026 | Aileen Apuy | 08/13/2026 | 08/13/2026 | Sebastian Schenk Objection Letter | Sent | Filing Notes | Date Submitted | Created On | Created By | Note Type | Subject | 08/13/2026 | 08/13/2026 | Aileen Apuy | Note To Reviewer | Updated Objection Response |\n| Company Tracking #: | State Tracking #: | SERFF Tracking #: | SOV - OOS - P 22550-D | AMGN-135003565 | Filing Company: | State: | American General Life Insurance Company | Maryland | TOI/Sub-TOI: | A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable | Product Name: | Expanded SOV | Project Name/Number: | / | Disposition | Disposition Date: 08/17/2026 | Effective Date: | Status: Received and filed | Comment: Please be advised of our acceptance of a revised Statement of Variability for Group Immediate Annuity Certificate, P 22550-I which was approved in | accordance with COMAR 31.09.08.07D for solicitation of individuals in Maryland on 12/14/2022 under SERFF tracking number AMGN-133229794. | In response to your submission on August 9, 2022, under SERFF tracking number AMGN-133229794, we returned without review, Group Deferred Annuity Certificate, | P 22550-D & Group Immediate Annuity Certificate, P 22550-I, which you had filed with the Insurance Administration, bearing our stamp \u201cReceived and Filed.\u201d | Certificate Forms P 22550-D & P 22550-I will be attached to Group Annuity Contract Forms P 30942 Rev0516, P 30942-MA and P 30942-DE which you stated were | approved on August 5, 2026 under SERFF tracking number AMGN-130667003, July 15, 2021 under SERFF tracking number AMGN-132876089, and November 22, | 2021 under SERFF tracking number AMGN-133032919, respectively. | It is your responsibility to make sure that the Forms and their corresponding Statements of Variability comply with all applicable Maryland mandates and to monitor any | future law changes and make the necessary revisions to these Forms to keep them in compliance with Maryland law. | Rate data does NOT apply to filing. | Public Access | Schedule Item Status | Schedule Item | Schedule | Yes | Closed | Actuarial Memorandum | Supporting Document | Yes | Closed | Actuarial Memorandum - Life Policy | Supporting Document | Yes | Closed | Actuarial Memorandum - Life Riders | Supporting Document | Yes | Closed | Advertising | Supporting Document | Yes | Closed | Application - Employee/Member | Supporting Document | Yes | Closed | Application - Group Policyholder Application | Supporting Document | Yes | Closed | Description of Contracts Used with this Application | Supporting Document | Yes | Closed | Description of Contracts Used with this Rider | Supporting Document | Yes | Closed | Life Ins. Illustration Actuarial  Certification | Supporting Document | Yes | Closed | Life Rider/Endorsement/Amendment form | Supporting Document | Yes | Closed | List of Policy Form Numbers | Supporting Document | Yes | Closed | Outline of Coverage | Supporting Document |\n| Public Access | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |\n| Company Tracking #: | State Tracking #: | SERFF Tracking #: | SOV - OOS - P 22550-D | AMGN-135003565 | Filing Company: | State: | American General Life Insurance Company | Maryland | TOI/Sub-TOI: | A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable | Product Name: | Expanded SOV | Project Name/Number: | / | Schedule Item Status | Schedule Item | Schedule | Closed | Policy Forms | Supporting Document | Closed | Premium Rates | Supporting Document | Closed | Replacement Notices | Supporting Document | Closed | Rider(s) | Supporting Document | Closed | Specimen Application | Supporting Document | Closed | Specimen Policy | Supporting Document | Closed | Specimen Rider/Endorsement/Amendment document | Supporting Document | Closed | Third Party Authorization | Supporting Document | Closed | Variable Text  Description | Supporting Document | Received and Filed | Revised Statement of Variability | Supporting Document | Closed | Redline Version | Supporting Document |\n| SERFF Tracking #:   AMGN-135003565 | State Tracking #:   SOV - OOS - P 22550-D | Company Tracking #: |\n| State: TOI/Sub-TOI: Product Name: Project Name/Number:   / | Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV | Filing Company: | American General Life Insurance Company |\n| Objection Letter | Objection Letter Status Objection Letter Date Submitted Date Respond By Date | Objection Letter Sent 08/13/2026 08/13/2026 |"
+        },
+        {
+          "type": "key_value_grid",
+          "title": null,
+          "headers": null,
+          "rows": null,
+          "items": [
+            {
+              "label": "Introduction",
+              "value": "We received your letter submitting the above Revised Statement of Variability for our review. We have reviewed it and wish to make the following Comment:"
+            }
+          ],
+          "raw_markdown": "- **Introduction**: We received your letter submitting the above Revised Statement of Variability for our review. We have reviewed it and wish to\nmake the following Comment:"
+        },
+        {
+          "type": "key_value",
+          "title": null,
+          "headers": null,
+          "rows": null,
+          "items": null,
+          "raw_markdown": "Re: Revised Statement of Variability for Form P 22550-I"
+        },
+        {
+          "type": "paragraph",
+          "title": null,
+          "headers": null,
+          "rows": null,
+          "items": null,
+          "raw_markdown": "1. The second sentence of the second paragraph of the Filing Description states: \u201cThe Statement of Variability was originally\napproved by your Department on 08/09/2022 under SERFF Tracking Number AMGN-133229794\u2026on a general use basis for in-state\nor out-of-state scenarios\u201d. The filing to which you refer is an out-of-state filing. Please revise the Filing Description and remove the\n\u201cin-state\u201d reference, as we are only reviewing the Statement of Variability for use with a Certificate issued on an out-of-state basis.\nWe suggest that you provide a post-submission update to the General Information tab with the Revised Filing Description. See\nCOMAR 31.04.17.03C and rule #12 in the Comments section of the \u201cMaryland General Instructions\u201d under the SERFF \u201cFiling Rules\u201d\ntab."
+        },
+        {
+          "type": "key_value_grid",
+          "title": null,
+          "headers": null,
+          "rows": null,
+          "items": [
+            {
+              "label": "Conclusion",
+              "value": "Thank you for your attention to these matters. We will give this submission our further attention when we receive your Response. Please include a cover letter with your Response that notes the change made in the Filing Description, and references the Comment noted in our letter. If you have any questions, or need further clarification, do not hesitate to call or email me. I am usually in the office from 7:30 a.m. to 4:00 p.m. (EST) Monday through Friday."
+            }
+          ],
+          "raw_markdown": "- **Conclusion**: Thank you for your attention to these matters. We will give this submission our further attention when we receive your\nResponse. Please include a cover letter with your Response that notes the change made in the Filing Description, and references the\nComment noted in our letter. If you have any questions, or need further clarification, do not hesitate to call or email me. I am usually\nin the office from 7:30 a.m. to 4:00 p.m. (EST) Monday through Friday."
+        },
+        {
+          "type": "paragraph",
+          "title": null,
+          "headers": null,
+          "rows": null,
+          "items": null,
+          "raw_markdown": "Please be advised that failure to respond to this letter within 90 days of the date of this letter will cause the filing to be deemed\nwithdrawn in accordance with COMAR 31.04.17.05.  If you are interested in pursuing approval of a withdrawn filing, you will be\nrequired to re-file the form(s), supporting documentation and filing fee.  It will then be treated as a new submission.\nSincerely,\nSebastian Schenk"
+        },
+        {
+          "type": "table",
+          "title": null,
+          "headers": [
+            "SERFF Tracking #:   AMGN-135003565",
+            "State Tracking #:   SOV - OOS - P 22550-D",
+            "Company Tracking #:"
+          ],
+          "rows": [
+            [
+              "State: TOI/Sub-TOI: Product Name: Project Name/Number:   /",
+              "Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV",
+              "Filing Company:",
+              "American General Life Insurance Company"
+            ],
+            [
+              "Response Letter",
+              "Response Letter Status Response Letter Date Submitted Date",
+              "Submitted to State 08/13/2026 08/13/2026"
+            ]
+          ],
+          "items": null,
+          "raw_markdown": "| SERFF Tracking #:   AMGN-135003565 | State Tracking #:   SOV - OOS - P 22550-D | Company Tracking #: |\n| --- | --- | --- |\n| State: TOI/Sub-TOI: Product Name: Project Name/Number:   / | Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV | Filing Company: | American General Life Insurance Company |\n| Response Letter | Response Letter Status Response Letter Date Submitted Date | Submitted to State 08/13/2026 08/13/2026 |"
+        },
+        {
+          "type": "key_value_grid",
+          "title": null,
+          "headers": null,
+          "rows": null,
+          "items": [
+            {
+              "label": "Introduction",
+              "value": "Please see our response below."
+            },
+            {
+              "label": "Response 1 Comments",
+              "value": "The referenced filing in the Filing Description was approved for use with both in-state and out-state-state scenarios. It expressly stated that the certificates were being filed for general use and may be used with both in-state and out-of-state group annuity policies. Accordingly, it does not change the scope of the original approval. Therefore, we respectfully request that the refence to in-state use remain in the filing description."
+            }
+          ],
+          "raw_markdown": "- **Introduction**: Please see our response below.\n- **Response 1\nComments**: The referenced filing in the Filing Description was approved for use with both in-state and out-state-state scenarios. It\nexpressly stated that the certificates were being filed for general use and may be used with both in-state and out-of-state group\nannuity policies. Accordingly, it does not change the scope of the original approval. Therefore, we respectfully request that the\nrefence to in-state use remain in the filing description."
+        },
+        {
+          "type": "paragraph",
+          "title": null,
+          "headers": null,
+          "rows": null,
+          "items": null,
+          "raw_markdown": "Changed Items:\nNo Form Schedule items changed.\nNo Rate/Rule Schedule items changed."
+        },
+        {
+          "type": "key_value_grid",
+          "title": null,
+          "headers": null,
+          "rows": null,
+          "items": [
+            {
+              "label": "Conclusion",
+              "value": "Thank you. Sincerely, Aileen Apuy"
+            }
+          ],
+          "raw_markdown": "- **Conclusion**: Thank you.\nSincerely,\nAileen Apuy"
+        },
+        {
+          "type": "table",
+          "title": null,
+          "headers": [
+            "SERFF Tracking #:   AMGN-135003565",
+            "State Tracking #:   SOV - OOS - P 22550-D",
+            "Company Tracking #:"
+          ],
+          "rows": [
+            [
+              "State: TOI/Sub-TOI: Product Name: Project Name/Number:   /",
+              "Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV",
+              "Filing Company:",
+              "American General Life Insurance Company"
+            ]
+          ],
+          "items": null,
+          "raw_markdown": "| SERFF Tracking #:   AMGN-135003565 | State Tracking #:   SOV - OOS - P 22550-D | Company Tracking #: |\n| --- | --- | --- |\n| State: TOI/Sub-TOI: Product Name: Project Name/Number:   / | Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV | Filing Company: | American General Life Insurance Company |"
+        }
+      ],
+      "raw_markdown": "- **Fee Required?\nFee Amount:\nRetaliatory?\nFee Explanation:\nPer Company**: Yes\n$125.00\nNo\n$125 per form x 1 form\nNo\n\n| Company | American General Life Insurance Company | Amount | $125.00 | Date Processed | 06/29/2026 03:14 PM | Transaction # | 350596425 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| EFT Total | $125.00 |\n| Company Tracking #: | State Tracking #: | SERFF Tracking #: | SOV - OOS - P 22550-D | AMGN-135003565 | Filing Company: | State: | American General Life Insurance Company | Maryland | TOI/Sub-TOI: | A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable | Product Name: | Expanded SOV | Project Name/Number: | / | Correspondence Summary | Dispositions | Date Submitted | Created On | Created By | Status | 08/17/2026 | 08/17/2026 | Received and filed   Sebastian Schenk | Objection Letters and Response Letters | Response Letters | Objection Letters | Date Submitted | Created On | Responded By | Date Submitted | Created On | Created By | Status | 08/13/2026 | 08/13/2026 | Aileen Apuy | 08/13/2026 | 08/13/2026 | Sebastian Schenk Objection Letter | Sent | Filing Notes | Date Submitted | Created On | Created By | Note Type | Subject | 08/13/2026 | 08/13/2026 | Aileen Apuy | Note To Reviewer | Updated Objection Response |\n| Company Tracking #: | State Tracking #: | SERFF Tracking #: | SOV - OOS - P 22550-D | AMGN-135003565 | Filing Company: | State: | American General Life Insurance Company | Maryland | TOI/Sub-TOI: | A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable | Product Name: | Expanded SOV | Project Name/Number: | / | Disposition | Disposition Date: 08/17/2026 | Effective Date: | Status: Received and filed | Comment: Please be advised of our acceptance of a revised Statement of Variability for Group Immediate Annuity Certificate, P 22550-I which was approved in | accordance with COMAR 31.09.08.07D for solicitation of individuals in Maryland on 12/14/2022 under SERFF tracking number AMGN-133229794. | In response to your submission on August 9, 2022, under SERFF tracking number AMGN-133229794, we returned without review, Group Deferred Annuity Certificate, | P 22550-D & Group Immediate Annuity Certificate, P 22550-I, which you had filed with the Insurance Administration, bearing our stamp \u201cReceived and Filed.\u201d | Certificate Forms P 22550-D & P 22550-I will be attached to Group Annuity Contract Forms P 30942 Rev0516, P 30942-MA and P 30942-DE which you stated were | approved on August 5, 2026 under SERFF tracking number AMGN-130667003, July 15, 2021 under SERFF tracking number AMGN-132876089, and November 22, | 2021 under SERFF tracking number AMGN-133032919, respectively. | It is your responsibility to make sure that the Forms and their corresponding Statements of Variability comply with all applicable Maryland mandates and to monitor any | future law changes and make the necessary revisions to these Forms to keep them in compliance with Maryland law. | Rate data does NOT apply to filing. | Public Access | Schedule Item Status | Schedule Item | Schedule | Yes | Closed | Actuarial Memorandum | Supporting Document | Yes | Closed | Actuarial Memorandum - Life Policy | Supporting Document | Yes | Closed | Actuarial Memorandum - Life Riders | Supporting Document | Yes | Closed | Advertising | Supporting Document | Yes | Closed | Application - Employee/Member | Supporting Document | Yes | Closed | Application - Group Policyholder Application | Supporting Document | Yes | Closed | Description of Contracts Used with this Application | Supporting Document | Yes | Closed | Description of Contracts Used with this Rider | Supporting Document | Yes | Closed | Life Ins. Illustration Actuarial  Certification | Supporting Document | Yes | Closed | Life Rider/Endorsement/Amendment form | Supporting Document | Yes | Closed | List of Policy Form Numbers | Supporting Document | Yes | Closed | Outline of Coverage | Supporting Document |\n| Public Access | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |\n| Company Tracking #: | State Tracking #: | SERFF Tracking #: | SOV - OOS - P 22550-D | AMGN-135003565 | Filing Company: | State: | American General Life Insurance Company | Maryland | TOI/Sub-TOI: | A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable | Product Name: | Expanded SOV | Project Name/Number: | / | Schedule Item Status | Schedule Item | Schedule | Closed | Policy Forms | Supporting Document | Closed | Premium Rates | Supporting Document | Closed | Replacement Notices | Supporting Document | Closed | Rider(s) | Supporting Document | Closed | Specimen Application | Supporting Document | Closed | Specimen Policy | Supporting Document | Closed | Specimen Rider/Endorsement/Amendment document | Supporting Document | Closed | Third Party Authorization | Supporting Document | Closed | Variable Text  Description | Supporting Document | Received and Filed | Revised Statement of Variability | Supporting Document | Closed | Redline Version | Supporting Document |\n| SERFF Tracking #:   AMGN-135003565 | State Tracking #:   SOV - OOS - P 22550-D | Company Tracking #: |\n| State: TOI/Sub-TOI: Product Name: Project Name/Number:   / | Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV | Filing Company: | American General Life Insurance Company |\n| Objection Letter | Objection Letter Status Objection Letter Date Submitted Date Respond By Date | Objection Letter Sent 08/13/2026 08/13/2026 |\n\n- **Introduction**: We received your letter submitting the above Revised Statement of Variability for our review. We have reviewed it and wish to\nmake the following Comment:\n\nRe: Revised Statement of Variability for Form P 22550-I\n\n1. The second sentence of the second paragraph of the Filing Description states: \u201cThe Statement of Variability was originally\napproved by your Department on 08/09/2022 under SERFF Tracking Number AMGN-133229794\u2026on a general use basis for in-state\nor out-of-state scenarios\u201d. The filing to which you refer is an out-of-state filing. Please revise the Filing Description and remove the\n\u201cin-state\u201d reference, as we are only reviewing the Statement of Variability for use with a Certificate issued on an out-of-state basis.\nWe suggest that you provide a post-submission update to the General Information tab with the Revised Filing Description. See\nCOMAR 31.04.17.03C and rule #12 in the Comments section of the \u201cMaryland General Instructions\u201d under the SERFF \u201cFiling Rules\u201d\ntab.\n\n- **Conclusion**: Thank you for your attention to these matters. We will give this submission our further attention when we receive your\nResponse. Please include a cover letter with your Response that notes the change made in the Filing Description, and references the\nComment noted in our letter. If you have any questions, or need further clarification, do not hesitate to call or email me. I am usually\nin the office from 7:30 a.m. to 4:00 p.m. (EST) Monday through Friday.\n\nPlease be advised that failure to respond to this letter within 90 days of the date of this letter will cause the filing to be deemed\nwithdrawn in accordance with COMAR 31.04.17.05.  If you are interested in pursuing approval of a withdrawn filing, you will be\nrequired to re-file the form(s), supporting documentation and filing fee.  It will then be treated as a new submission.\nSincerely,\nSebastian Schenk\n\n| SERFF Tracking #:   AMGN-135003565 | State Tracking #:   SOV - OOS - P 22550-D | Company Tracking #: |\n| --- | --- | --- |\n| State: TOI/Sub-TOI: Product Name: Project Name/Number:   / | Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV | Filing Company: | American General Life Insurance Company |\n| Response Letter | Response Letter Status Response Letter Date Submitted Date | Submitted to State 08/13/2026 08/13/2026 |\n\n- **Introduction**: Please see our response below.\n- **Response 1\nComments**: The referenced filing in the Filing Description was approved for use with both in-state and out-state-state scenarios. It\nexpressly stated that the certificates were being filed for general use and may be used with both in-state and out-of-state group\nannuity policies. Accordingly, it does not change the scope of the original approval. Therefore, we respectfully request that the\nrefence to in-state use remain in the filing description.\n\nChanged Items:\nNo Form Schedule items changed.\nNo Rate/Rule Schedule items changed.\n\n- **Conclusion**: Thank you.\nSincerely,\nAileen Apuy\n\n| SERFF Tracking #:   AMGN-135003565 | State Tracking #:   SOV - OOS - P 22550-D | Company Tracking #: |\n| --- | --- | --- |\n| State: TOI/Sub-TOI: Product Name: Project Name/Number:   / | Maryland A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable Expanded SOV | Filing Company: | American General Life Insurance Company |"
+    },
+    {
+      "id": "note-to-reviewer",
+      "title": "Note To Reviewer",
+      "page": 11,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "title": null,
+          "headers": null,
+          "rows": null,
+          "items": null,
+          "raw_markdown": "Created By:\nAileen Apuy on 08/13/2026 10:48 AM\nLast Edited By:\nSebastian Schenk\nSubmitted On:\n08/17/2026 10:31 AM\nSubject:\nUpdated Objection Response\nComments:\nDear Mr. Schenk,\nUpon further review of the 2022 filing, we noted that a third party assisting with the filing at the time had subsequently revised\nthe filing description to remove the in-state reference. As this revision was included within the Supporting Documentation tab, it\nwas not reflected in the Filing Description tab we referenced. We therefore understand the basis for the Department's\ncomment. By way of Post-Submission Update, we have revised the filing description to remove the in-state referenced, as\nrequested.\nThank you."
+        },
+        {
+          "type": "key_value_grid",
+          "title": null,
+          "headers": null,
+          "rows": null,
+          "items": [
+            {
+              "label": "SERFF Tracking #",
+              "value": "State:"
+            },
+            {
+              "label": "TOI/Sub-TOI",
+              "value": "Product Name:"
+            },
+            {
+              "label": "Project Name/Number",
+              "value": "Status Date:"
+            },
+            {
+              "label": "Bypassed - Item",
+              "value": "Bypass Reason:"
+            },
+            {
+              "label": "Attachment(s)",
+              "value": "Item Status:"
+            },
+            {
+              "label": "Status Date",
+              "value": "Bypassed - Item:"
+            },
+            {
+              "label": "Bypass Reason",
+              "value": "Attachment(s):"
+            },
+            {
+              "label": "Item Status",
+              "value": "Status Date:"
+            },
+            {
+              "label": "Bypassed - Item",
+              "value": "Bypass Reason:"
+            },
+            {
+              "label": "Attachment(s)",
+              "value": "Item Status:"
+            },
+            {
+              "label": "Status Date",
+              "value": "Bypassed - Item:"
+            },
+            {
+              "label": "Bypass Reason",
+              "value": "Attachment(s):"
+            },
+            {
+              "label": "Item Status",
+              "value": "Status Date:"
+            },
+            {
+              "label": "Bypassed - Item",
+              "value": "Bypass Reason:"
+            },
+            {
+              "label": "Attachment(s)",
+              "value": "Item Status:"
+            },
+            {
+              "label": "Status Date",
+              "value": "Bypassed - Item:"
+            },
+            {
+              "label": "Bypass Reason",
+              "value": "Attachment(s):"
+            },
+            {
+              "label": "Item Status",
+              "value": "Status Date:"
+            }
+          ],
+          "raw_markdown": "- **SERFF Tracking #**: State:\n- **TOI/Sub-TOI**: Product Name:\n- **Project Name/Number**: Status Date:\n- **Bypassed - Item**: Bypass Reason:\n- **Attachment(s)**: Item Status:\n- **Status Date**: Bypassed - Item:\n- **Bypass Reason**: Attachment(s):\n- **Item Status**: Status Date:\n- **Bypassed - Item**: Bypass Reason:\n- **Attachment(s)**: Item Status:\n- **Status Date**: Bypassed - Item:\n- **Bypass Reason**: Attachment(s):\n- **Item Status**: Status Date:\n- **Bypassed - Item**: Bypass Reason:\n- **Attachment(s)**: Item Status:\n- **Status Date**: Bypassed - Item:\n- **Bypass Reason**: Attachment(s):\n- **Item Status**: Status Date:"
+        },
+        {
+          "type": "table",
+          "title": null,
+          "headers": [
+            "Company Tracking #:",
+            "State Tracking #:",
+            "SOV - OOS - P 22550-D",
+            "AMGN-135003565",
+            "Filing Company:",
+            "American General Life Insurance Company",
+            "Maryland",
+            "A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable",
+            "Expanded SOV",
+            "/",
+            "08/17/2026",
+            "Description of Contracts Used with this Application",
+            "N/A",
+            "Closed",
+            "08/17/2026",
+            "Description of Contracts Used with this Rider",
+            "N/A",
+            "Closed",
+            "08/17/2026",
+            "Life Ins. Illustration Actuarial  Certification",
+            "N/A",
+            "Closed",
+            "08/17/2026",
+            "Life Rider/Endorsement/Amendment form",
+            "N/A",
+            "Closed",
+            "08/17/2026",
+            "List of Policy Form Numbers",
+            "N/A",
+            "Closed",
+            "08/17/2026",
+            "Outline of Coverage",
+            "N/A",
+            "Closed",
+            "08/17/2026"
+          ],
+          "rows": [
+            [
+              "Company Tracking #:",
+              "State Tracking #:",
+              "SOV - OOS - P 22550-D",
+              "AMGN-135003565",
+              "Filing Company:",
+              "American General Life Insurance Company",
+              "Maryland",
+              "A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable",
+              "Expanded SOV",
+              "/",
+              "Policy Forms",
+              "N/A",
+              "Closed",
+              "08/17/2026",
+              "Premium Rates",
+              "N/A",
+              "Closed",
+              "08/17/2026",
+              "Replacement Notices",
+              "N/A",
+              "Closed",
+              "08/17/2026",
+              "Rider(s)",
+              "N/A",
+              "Closed",
+              "08/17/2026",
+              "Specimen Application",
+              "N/A",
+              "Closed",
+              "08/17/2026",
+              "Specimen Policy",
+              "N/A",
+              "Closed",
+              "08/17/2026"
+            ]
+          ],
+          "items": null,
+          "raw_markdown": "| Company Tracking #: | State Tracking #: | SOV - OOS - P 22550-D | AMGN-135003565 | Filing Company: | American General Life Insurance Company | Maryland | A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable | Expanded SOV | / | 08/17/2026 | Description of Contracts Used with this Application | N/A | Closed | 08/17/2026 | Description of Contracts Used with this Rider | N/A | Closed | 08/17/2026 | Life Ins. Illustration Actuarial  Certification | N/A | Closed | 08/17/2026 | Life Rider/Endorsement/Amendment form | N/A | Closed | 08/17/2026 | List of Policy Form Numbers | N/A | Closed | 08/17/2026 | Outline of Coverage | N/A | Closed | 08/17/2026 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Company Tracking #: | State Tracking #: | SOV - OOS - P 22550-D | AMGN-135003565 | Filing Company: | American General Life Insurance Company | Maryland | A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable | Expanded SOV | / | Policy Forms | N/A | Closed | 08/17/2026 | Premium Rates | N/A | Closed | 08/17/2026 | Replacement Notices | N/A | Closed | 08/17/2026 | Rider(s) | N/A | Closed | 08/17/2026 | Specimen Application | N/A | Closed | 08/17/2026 | Specimen Policy | N/A | Closed | 08/17/2026 |"
+        },
+        {
+          "type": "key_value_grid",
+          "title": null,
+          "headers": null,
+          "rows": null,
+          "items": [
+            {
+              "label": "SERFF Tracking #",
+              "value": "State:"
+            },
+            {
+              "label": "TOI/Sub-TOI",
+              "value": "Product Name:"
+            },
+            {
+              "label": "Project Name/Number",
+              "value": "Bypassed - Item:"
+            },
+            {
+              "label": "Bypass Reason",
+              "value": "Attachment(s):"
+            },
+            {
+              "label": "Item Status",
+              "value": "Status Date:"
+            },
+            {
+              "label": "Bypassed - Item",
+              "value": "Bypass Reason:"
+            },
+            {
+              "label": "Attachment(s)",
+              "value": "Item Status:"
+            },
+            {
+              "label": "Status Date",
+              "value": "Bypassed - Item:"
+            },
+            {
+              "label": "Bypass Reason",
+              "value": "Attachment(s):"
+            },
+            {
+              "label": "Item Status",
+              "value": "Status Date:"
+            },
+            {
+              "label": "Bypassed - Item",
+              "value": "Bypass Reason:"
+            },
+            {
+              "label": "Attachment(s)",
+              "value": "Item Status:"
+            },
+            {
+              "label": "Status Date",
+              "value": "Bypassed - Item:"
+            },
+            {
+              "label": "Bypass Reason",
+              "value": "Attachment(s):"
+            },
+            {
+              "label": "Item Status",
+              "value": "Status Date:"
+            },
+            {
+              "label": "Bypassed - Item",
+              "value": "Bypass Reason:"
+            },
+            {
+              "label": "Attachment(s)",
+              "value": "Item Status:"
+            }
+          ],
+          "raw_markdown": "- **SERFF Tracking #**: State:\n- **TOI/Sub-TOI**: Product Name:\n- **Project Name/Number**: Bypassed - Item:\n- **Bypass Reason**: Attachment(s):\n- **Item Status**: Status Date:\n- **Bypassed - Item**: Bypass Reason:\n- **Attachment(s)**: Item Status:\n- **Status Date**: Bypassed - Item:\n- **Bypass Reason**: Attachment(s):\n- **Item Status**: Status Date:\n- **Bypassed - Item**: Bypass Reason:\n- **Attachment(s)**: Item Status:\n- **Status Date**: Bypassed - Item:\n- **Bypass Reason**: Attachment(s):\n- **Item Status**: Status Date:\n- **Bypassed - Item**: Bypass Reason:\n- **Attachment(s)**: Item Status:"
+        },
+        {
+          "type": "table",
+          "title": null,
+          "headers": [
+            "Company Tracking #:",
+            "State Tracking #:",
+            "SOV - OOS - P 22550-D",
+            "AMGN-135003565",
+            "Filing Company:",
+            "American General Life Insurance Company",
+            "Maryland",
+            "A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable",
+            "Expanded SOV",
+            "/",
+            "Specimen Rider/Endorsement/Amendment document",
+            "N/A",
+            "Closed",
+            "08/17/2026",
+            "Third Party Authorization",
+            "N/A",
+            "Closed",
+            "08/17/2026",
+            "Variable Text  Description",
+            "We are unable to upload the document. As such, we have provided the SOV under the Revised Statement of Variability tab for",
+            "the Department's review.",
+            "Closed",
+            "08/17/2026",
+            "Revised Statement of Variability",
+            "P 22550-I [Expanded SOV].pdf",
+            "Received and Filed",
+            "08/17/2026",
+            "Redline Version",
+            "P 22550-I [Expanded SOV] -redline.pdf",
+            "Closed",
+            "08/17/2026"
+          ],
+          "rows": [],
+          "items": null,
+          "raw_markdown": "| Company Tracking #: | State Tracking #: | SOV - OOS - P 22550-D | AMGN-135003565 | Filing Company: | American General Life Insurance Company | Maryland | A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable | Expanded SOV | / | Specimen Rider/Endorsement/Amendment document | N/A | Closed | 08/17/2026 | Third Party Authorization | N/A | Closed | 08/17/2026 | Variable Text  Description | We are unable to upload the document. As such, we have provided the SOV under the Revised Statement of Variability tab for | the Department's review. | Closed | 08/17/2026 | Revised Statement of Variability | P 22550-I [Expanded SOV].pdf | Received and Filed | 08/17/2026 | Redline Version | P 22550-I [Expanded SOV] -redline.pdf | Closed | 08/17/2026 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |"
+        },
+        {
+          "type": "key_value_grid",
+          "title": null,
+          "headers": null,
+          "rows": null,
+          "items": [
+            {
+              "label": "SERFF Tracking #",
+              "value": "State:"
+            },
+            {
+              "label": "TOI/Sub-TOI",
+              "value": "Product Name:"
+            },
+            {
+              "label": "Project Name/Number",
+              "value": "Bypassed - Item:"
+            },
+            {
+              "label": "Bypass Reason",
+              "value": "Attachment(s):"
+            },
+            {
+              "label": "Item Status",
+              "value": "Status Date:"
+            },
+            {
+              "label": "Bypassed - Item",
+              "value": "Bypass Reason:"
+            },
+            {
+              "label": "Attachment(s)",
+              "value": "Item Status:"
+            },
+            {
+              "label": "Status Date",
+              "value": "Satisfied - Item:"
+            },
+            {
+              "label": "Comments",
+              "value": "Attachment(s):"
+            },
+            {
+              "label": "Item Status",
+              "value": "Status Date:"
+            },
+            {
+              "label": "Satisfied - Item",
+              "value": "Comments:"
+            },
+            {
+              "label": "Attachment(s)",
+              "value": "Item Status:"
+            },
+            {
+              "label": "Status Date",
+              "value": "Satisfied - Item:"
+            },
+            {
+              "label": "Comments",
+              "value": "Attachment(s):"
+            },
+            {
+              "label": "Item Status",
+              "value": "Status Date:"
+            }
+          ],
+          "raw_markdown": "- **SERFF Tracking #**: State:\n- **TOI/Sub-TOI**: Product Name:\n- **Project Name/Number**: Bypassed - Item:\n- **Bypass Reason**: Attachment(s):\n- **Item Status**: Status Date:\n- **Bypassed - Item**: Bypass Reason:\n- **Attachment(s)**: Item Status:\n- **Status Date**: Satisfied - Item:\n- **Comments**: Attachment(s):\n- **Item Status**: Status Date:\n- **Satisfied - Item**: Comments:\n- **Attachment(s)**: Item Status:\n- **Status Date**: Satisfied - Item:\n- **Comments**: Attachment(s):\n- **Item Status**: Status Date:"
+        }
+      ],
+      "raw_markdown": "Created By:\nAileen Apuy on 08/13/2026 10:48 AM\nLast Edited By:\nSebastian Schenk\nSubmitted On:\n08/17/2026 10:31 AM\nSubject:\nUpdated Objection Response\nComments:\nDear Mr. Schenk,\nUpon further review of the 2022 filing, we noted that a third party assisting with the filing at the time had subsequently revised\nthe filing description to remove the in-state reference. As this revision was included within the Supporting Documentation tab, it\nwas not reflected in the Filing Description tab we referenced. We therefore understand the basis for the Department's\ncomment. By way of Post-Submission Update, we have revised the filing description to remove the in-state referenced, as\nrequested.\nThank you.\n\n- **SERFF Tracking #**: State:\n- **TOI/Sub-TOI**: Product Name:\n- **Project Name/Number**: Status Date:\n- **Bypassed - Item**: Bypass Reason:\n- **Attachment(s)**: Item Status:\n- **Status Date**: Bypassed - Item:\n- **Bypass Reason**: Attachment(s):\n- **Item Status**: Status Date:\n- **Bypassed - Item**: Bypass Reason:\n- **Attachment(s)**: Item Status:\n- **Status Date**: Bypassed - Item:\n- **Bypass Reason**: Attachment(s):\n- **Item Status**: Status Date:\n- **Bypassed - Item**: Bypass Reason:\n- **Attachment(s)**: Item Status:\n- **Status Date**: Bypassed - Item:\n- **Bypass Reason**: Attachment(s):\n- **Item Status**: Status Date:\n\n| Company Tracking #: | State Tracking #: | SOV - OOS - P 22550-D | AMGN-135003565 | Filing Company: | American General Life Insurance Company | Maryland | A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable | Expanded SOV | / | 08/17/2026 | Description of Contracts Used with this Application | N/A | Closed | 08/17/2026 | Description of Contracts Used with this Rider | N/A | Closed | 08/17/2026 | Life Ins. Illustration Actuarial  Certification | N/A | Closed | 08/17/2026 | Life Rider/Endorsement/Amendment form | N/A | Closed | 08/17/2026 | List of Policy Form Numbers | N/A | Closed | 08/17/2026 | Outline of Coverage | N/A | Closed | 08/17/2026 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Company Tracking #: | State Tracking #: | SOV - OOS - P 22550-D | AMGN-135003565 | Filing Company: | American General Life Insurance Company | Maryland | A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable | Expanded SOV | / | Policy Forms | N/A | Closed | 08/17/2026 | Premium Rates | N/A | Closed | 08/17/2026 | Replacement Notices | N/A | Closed | 08/17/2026 | Rider(s) | N/A | Closed | 08/17/2026 | Specimen Application | N/A | Closed | 08/17/2026 | Specimen Policy | N/A | Closed | 08/17/2026 |\n\n- **SERFF Tracking #**: State:\n- **TOI/Sub-TOI**: Product Name:\n- **Project Name/Number**: Bypassed - Item:\n- **Bypass Reason**: Attachment(s):\n- **Item Status**: Status Date:\n- **Bypassed - Item**: Bypass Reason:\n- **Attachment(s)**: Item Status:\n- **Status Date**: Bypassed - Item:\n- **Bypass Reason**: Attachment(s):\n- **Item Status**: Status Date:\n- **Bypassed - Item**: Bypass Reason:\n- **Attachment(s)**: Item Status:\n- **Status Date**: Bypassed - Item:\n- **Bypass Reason**: Attachment(s):\n- **Item Status**: Status Date:\n- **Bypassed - Item**: Bypass Reason:\n- **Attachment(s)**: Item Status:\n\n| Company Tracking #: | State Tracking #: | SOV - OOS - P 22550-D | AMGN-135003565 | Filing Company: | American General Life Insurance Company | Maryland | A05G Group Annuities - Immediate Non-Variable/A05G.000 Annuities - Immediate Non-variable | Expanded SOV | / | Specimen Rider/Endorsement/Amendment document | N/A | Closed | 08/17/2026 | Third Party Authorization | N/A | Closed | 08/17/2026 | Variable Text  Description | We are unable to upload the document. As such, we have provided the SOV under the Revised Statement of Variability tab for | the Department's review. | Closed | 08/17/2026 | Revised Statement of Variability | P 22550-I [Expanded SOV].pdf | Received and Filed | 08/17/2026 | Redline Version | P 22550-I [Expanded SOV] -redline.pdf | Closed | 08/17/2026 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n- **SERFF Tracking #**: State:\n- **TOI/Sub-TOI**: Product Name:\n- **Project Name/Number**: Bypassed - Item:\n- **Bypass Reason**: Attachment(s):\n- **Item Status**: Status Date:\n- **Bypassed - Item**: Bypass Reason:\n- **Attachment(s)**: Item Status:\n- **Status Date**: Satisfied - Item:\n- **Comments**: Attachment(s):\n- **Item Status**: Status Date:\n- **Satisfied - Item**: Comments:\n- **Attachment(s)**: Item Status:\n- **Status Date**: Satisfied - Item:\n- **Comments**: Attachment(s):\n- **Item Status**: Status Date:"
+    }
+  ],
+  "metadata": {
+    "processing_time_ms": 121,
+    "heading_count": 4,
+    "character_count": 17527
+  }
+}

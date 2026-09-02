@@ -21,7 +21,7 @@ async def login(credentials: LoginRequest):
     token = secrets.token_urlsafe(32)
     return LoginResponse(email=credentials.email.strip().lower(), token=token)
 
-@router.post("/extract", response_model=ExtractionResponse)
+@router.post("/extract", response_model=ExtractionResponse, response_model_exclude_none=True)
 async def extract_pdf(file: UploadFile = File(...)):
     if file.content_type != "application/pdf":
         raise HTTPException(status_code=400, detail="Invalid file type. Only PDFs are supported.")

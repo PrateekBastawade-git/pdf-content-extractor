@@ -6,6 +6,25 @@ from app.main import app
 
 client = TestClient(app)
 
+
+def _heading_texts(data):
+    return [
+        block["text"]
+        for page in data["pages"]
+        for block in page["blocks"]
+        if block["type"] == "heading"
+    ]
+
+
+def _blocks_of_type(data, block_type):
+    return [
+        block
+        for page in data["pages"]
+        for block in page["blocks"]
+        if block["type"] == block_type
+    ]
+
+
 def test_health_check():
     response = client.get("/health")
     assert response.status_code == 200
@@ -57,28 +76,31 @@ def test_extract_valid_pdf():
     assert response.status_code == 200
     data = response.json()
     
-    # Verify response structure
     assert "filename" in data
     assert data["filename"] == "test.pdf"
     assert "total_pages" in data
     assert data["total_pages"] == 1
-    assert "sections" in data
+    assert "pages" in data
+    assert "sections" not in data
     assert "metadata" in data
     
-    # Verify sections logic
-    sections = data["sections"]
-    assert len(sections) > 0
-    
-    # At least one section should contain our heading and body text
+    pages = data["pages"]
+    assert len(pages) == 1
+    assert pages[0]["page_number"] == 1
+    assert len(pages[0]["blocks"]) > 0
+
     found_heading = False
-    for sec in sections:
-        if "Test Heading" in sec["title"]:
+    found_body = False
+    for block in pages[0]["blocks"]:
+        if block["type"] == "heading" and "Test Heading" in (block.get("text") or ""):
             found_heading = True
-            assert "This is a body paragraph." in sec["raw_markdown"]
-            assert sec["page"] == 1
-            break
+            assert block.get("level") == 1
+        if block["type"] == "paragraph" and "This is a body paragraph." in (block.get("text") or ""):
+            found_body = True
+            assert "raw_markdown" not in block
             
-    assert found_heading, "Heading was not detected or body text was not associated"
+    assert found_heading, "Heading was not detected"
+    assert found_body, "Body text was not associated with the page"
 
 def test_extract_ignores_timestamp_as_heading():
     doc = fitz.open()
@@ -95,8 +117,7 @@ def test_extract_ignores_timestamp_as_heading():
     )
     assert response.status_code == 200
     data = response.json()
-    headings = [s["title"] for s in data["sections"]]
-    assert "08/17/2026 10:31 AM" not in headings
+    assert "08/17/2026 10:31 AM" not in _heading_texts(data)
 
 
 def test_extract_suppresses_repeated_boilerplate_fragment():
@@ -116,8 +137,7 @@ def test_extract_suppresses_repeated_boilerplate_fragment():
     )
     assert response.status_code == 200
     data = response.json()
-    headings = [s["title"] for s in data["sections"]]
-    assert fragment not in headings
+    assert fragment not in _heading_texts(data)
 
 def test_login_valid_credentials():
     from app.core.config import settings
@@ -176,16 +196,17 @@ def test_extract_preserves_line_and_paragraph_breaks():
     assert response.status_code == 200
     data = response.json()
 
-    section = next(s for s in data["sections"] if s["title"] == "Table of Contents")
-    # Should contain real newlines, not be a single space-joined run-on line
-    assert "\n" in section["raw_markdown"], "Body text has no line breaks — structure was flattened"
-    # No single line should contain unrelated content glued together with only a space
-    assert "Attachments\nUsage Agreement" in section["raw_markdown"] or \
-           "Attachments\n\nUsage Agreement" in section["raw_markdown"] or \
-           "| User Usage Agreement Attachments |" in section["raw_markdown"] or \
-           "Usage Agreement Usage Agreement.pdf" in section["raw_markdown"]
+    assert data["pages"][0]["blocks"][0]["type"] == "heading"
+    assert data["pages"][0]["blocks"][0]["text"] == "Table of Contents"
 
-def test_extract_formats_tabular_data_as_markdown():
+    paragraphs = _blocks_of_type(data, "paragraph")
+    joined = "\n".join(p.get("text") or "" for p in paragraphs)
+    assert "User Usage Agreement Attachments" in joined
+    assert "Usage Agreement Usage Agreement.pdf" in joined
+    assert "Form Attachments (ex. Form Name)" in joined
+    assert "\n" in joined or len(paragraphs) >= 2, "Body text has no line breaks — structure was flattened"
+
+def test_extract_formats_tabular_data_as_table():
     doc = fitz.open()
     page = doc.new_page()
     page.insert_text((50, 100), "Attachments List", fontsize=20)
@@ -208,9 +229,12 @@ def test_extract_formats_tabular_data_as_markdown():
     assert response.status_code == 200
     data = response.json()
 
-    section = next(s for s in data["sections"] if s["title"] == "Attachments List")
-    text = section["raw_markdown"]
-    
-    assert "| Form Name | Form Number |" in text
-    assert "| --- | --- |" in text
-    assert "| Application Form | APP-001 |" in text
+    headings = _heading_texts(data)
+    assert "Attachments List" in headings
+
+    tables = _blocks_of_type(data, "table")
+    assert len(tables) >= 1
+    table = tables[0]
+    assert table["headers"] == ["Form Name", "Form Number"]
+    assert ["Application Form", "APP-001"] in table["rows"]
+    assert "raw_markdown" not in table
