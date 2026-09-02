@@ -25,20 +25,18 @@ def health_check():
 
 app.include_router(router, prefix=settings.API_V1_STR)
 
-# Serve frontend build static assets and SPA fallback if frontend/dist exists
-frontend_dist_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "frontend", "dist"))
-if os.path.exists(frontend_dist_path):
-    assets_path = os.path.join(frontend_dist_path, "assets")
+# Serve frontend static assets and SPA fallback
+static_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "static"))
+if os.path.exists(static_dir):
+    assets_path = os.path.join(static_dir, "assets")
     if os.path.exists(assets_path):
         app.mount("/assets", StaticFiles(directory=assets_path), name="assets")
 
     @app.get("/{full_path:path}")
     async def serve_spa(full_path: str):
-        # Do not intercept API or health endpoints if not caught by router
         if full_path.startswith("api/") or full_path == "health":
-            return FileResponse(os.path.join(frontend_dist_path, "index.html"))
-        file_path = os.path.join(frontend_dist_path, full_path)
+            return FileResponse(os.path.join(static_dir, "index.html"))
+        file_path = os.path.join(static_dir, full_path)
         if os.path.isfile(file_path):
             return FileResponse(file_path)
-        return FileResponse(os.path.join(frontend_dist_path, "index.html"))
-
+        return FileResponse(os.path.join(static_dir, "index.html"))
